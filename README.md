@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Scott 👋
 
-<!--
-**Scott-1111/Scott-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm using this space to learn, build, and share projects with the community.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Exploring new technologies and improving my development skills
+- 🔨 Building projects, experimenting with ideas, and learning by doing
+- 🤝 Open to collaboration, feedback, and interesting conversations
+- 📚 Always curious and continually learning
+
+## What you'll find here
+
+- Personal projects and experiments
+- Learning notes and useful examples
+- Contributions and collaborative work
+
+## Let's connect
+
+Feel free to explore my repositories, open an issue, or start a discussion if you'd like to connect.
+
+Thanks for stopping by! ⭐
