@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- LinkedIn: https://www.linkedin.com/in/omarcamay/
+- Instagram: https://www.instagram.com/connoisseur1111/
+
 <!--
 **Scott-1111/Scott-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
